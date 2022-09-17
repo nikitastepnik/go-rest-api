@@ -1,1 +1,1 @@
-# go-rest-api
+# Учебный REST-API сервер на Golang
